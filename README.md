@@ -12,4 +12,4 @@ Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a mon
 During the entire month of October 2021, all you have to do is contribute to any open source projects and open
 \
 <br />
-#GIVE ME YOUR MEANINGFUL FUNCTION :)
+# GIVE ME YOUR MEANINGFUL FUNCTION :)
